@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BmLMQRXF.js";const k=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"back-end/docker.md","filePath":"back-end/docker.md","lastUpdated":1743385542000}'),c={name:"back-end/docker.md"};function r(o,d,n,s,p,_){return a(),t("div")}const m=e(c,[["render",r]]);export{k as __pageData,m as default};
